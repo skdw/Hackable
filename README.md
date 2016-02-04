@@ -17,4 +17,4 @@ Szukasz poradników instalacji Hackintosha krok po kroku?
 
 CHANGELOG
 -----------------------
-2016-02-03  Hackable
+2016-02-03  Hackable-v1.0
