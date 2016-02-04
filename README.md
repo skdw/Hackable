@@ -12,7 +12,7 @@ https://www.facebook.com/groups/hackintoshpolska/
 
 Szukasz poradników instalacji Hackintosha krok po kroku?
 - Poradniki tekstowe -> http://on.fb.me/1MYqWKQ
-- Poradniki wideo -> bit.ly/hackintoshyoutube
+- Poradniki wideo -> http://bit.ly/hackintoshyoutube
 
 
 CHANGELOG
